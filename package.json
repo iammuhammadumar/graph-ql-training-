@@ -1,0 +1,27 @@
+{
+  "name": "graph-ql-training-",
+  "version": "1.0.0",
+  "description": "1- Create Packege.json",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iammuhammadumar/graph-ql-training-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iammuhammadumar/graph-ql-training-/issues"
+  },
+  "homepage": "https://github.com/iammuhammadumar/graph-ql-training-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
